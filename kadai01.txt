@@ -4,7 +4,7 @@
 
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
-	<title>隱ｲ鬘�02</title>
+	<title>日本語</title>
 </head>
 
 <body>
